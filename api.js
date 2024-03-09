@@ -1,3 +1,4 @@
+// This function takes the model and year of the car and returns the car value.
 function CarValue(model, year) {
     // Initialize Car_value
     let Car_value = 0;
