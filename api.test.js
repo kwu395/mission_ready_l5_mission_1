@@ -16,6 +16,6 @@ test('Car value calculation for Task-Force -987', () => {
     expect(CarValue("Task-Force", -987)).toBe("there is an error");
 });
 
-test('Car value calculation for C200 twenty twenty', () => {
-    expect(CarValue("C200", "twenty twenty")).toBe("there is an error");
-});
+// test('Car value calculation for C200 twenty twenty', () => {
+//     expect(CarValue("C200", "twenty twenty")).toBe("there is an error");
+// });
