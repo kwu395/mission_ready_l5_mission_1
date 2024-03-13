@@ -209,6 +209,7 @@
     "yallist": "^3.1.1",
     "yargs": "^17.7.2",
     "yargs-parser": "^21.1.1",
+    "yarn": "^1.22.22",
     "yocto-queue": "^0.1.0"
   },
   "description": ""
