@@ -3,11 +3,11 @@ name: Build and Test
 on:
   push:
     branches:
-      - main
+      - master
       - kwu395-patch-1
   pull_request:
     branches:
-      - main
+      - master
       - kwu395-patch-1
 
 jobs:
