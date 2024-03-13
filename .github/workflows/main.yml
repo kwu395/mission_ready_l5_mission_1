@@ -4,9 +4,11 @@ on:
   push:
     branches:
       - main
+      - kwu395-patch-1
   pull_request:
     branches:
       - main
+      - kwu395-patch-1
 
 jobs:
   build_test:
